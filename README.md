@@ -3,7 +3,7 @@
 **Notice**: I'm re-writing all the solutions now that I am more experienced with Rust. Current progress:
 
 - [x] day-01
-- [ ] day-02
+- [x] day-02
 - [ ] day-03
 - [ ] day-04
 - [ ] day-05
